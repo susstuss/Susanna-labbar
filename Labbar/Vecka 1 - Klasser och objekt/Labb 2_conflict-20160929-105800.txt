@@ -1,0 +1,6 @@
+﻿	┌────────┐
+	│ Labb 2 │
+	└────────┘
+Del 1:
+- Skapa ett nytt console project i Visual Studio
+- Skapa en abstrakt basklass, till exempel "Animal" eller "Vehicle"
