@@ -10,7 +10,11 @@
 
 ### Del 2
 * Skapa listor för de olika djuren
-* Skapa en main menu där användaren kan lägga till, ta bort och visa info om de olika djuren
+* Lägg till en main menu där användaren kan:
+	* Lägga till objekt
+	* Ta bort objekt
+	* Visa objekt ur olika listor eller alla listor
+	* Avsluta programmet
 
 ### Inlämning
 * Lägg upp det färdiga projektet i ert Git repository.
