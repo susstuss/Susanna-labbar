@@ -16,8 +16,8 @@
 
 ### Del 3
 * Skapa en main menu i konsollen med följande alernativ
-⋅⋅1. Add new
-⋅⋅2. Remove
-⋅⋅3. Show info
-⋅⋅4. Exit
+⋅⋅* Add new
+⋅⋅* Remove
+⋅⋅* Show info
+⋅⋅* Exit
 * Användaren ska kunna använda menyn för att lägga till och ta bort objekt samt skriva ut info om objekten och avsluta applikationen
