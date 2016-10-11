@@ -4,7 +4,7 @@
 * Skapa en abtrakt klass som heter "Animal"
 	* Ge klassen properties och en eller flera metoder som är gemensamma för alla Animals. Exempel på properties skulle kunna vara Age och Weight, en metod för Animal kan vara Move() som beskriver hur djuret rör på sig eller Talk() som beskriver dess läte
 * Skapa några klasser som ärver "Animal", till exempel "Mammal", "Reptile", "Bird" osv.
-	* Ge dessa klasser passande properties. Till exempel NumberOfLegs, CanSwim/Run/Fly,  etc.
+	* Ge dessa klasser passande properties. Till exempel NumberOfLegs, CanSwim/Run/Fly, WarmBlooded etc.
 * Skapa klasser som ärver dessa klasser, till exempel "Dog" för "Mammal" etc.
 	* Ge även dessa passande properties
 	* Använd override på metoden i "Animal" för att ge varje typ av djur ett eget beteende
