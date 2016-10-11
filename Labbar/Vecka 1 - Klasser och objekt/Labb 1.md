@@ -1,12 +1,11 @@
 ﻿# Labb 1 - Klasser och objekt
 ### Del 1
-* Skapa ett nytt console project i Visual Studio
-* Skapa klassen "Dog"
-* Ge klassen properties:
+1. Skapa ett nytt console project i Visual Studio
+2. Skapa klassen "Dog"
+3. Ge klassen properties:
 ⋅⋅1. Name
 ⋅⋅2. Age
 ⋅⋅3. Breed
-⋅⋅⋅Du får ha fler om du vill!
 * Skapa några instanser av klassen med unika värden för varje property
 * Skriv ut varje objekts properties i konsollen
 
