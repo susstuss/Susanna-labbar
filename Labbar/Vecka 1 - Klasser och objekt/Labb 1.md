@@ -3,9 +3,9 @@
 1. Skapa ett nytt console project i Visual Studio
 2. Skapa klassen "Dog"
 3. Ge klassen properties:
-⋅⋅1. Name
-⋅⋅2. Age
-⋅⋅3. Breed
+	⋅⋅1. Name
+	⋅⋅2. Age
+	⋅⋅3. Breed
 * Skapa några instanser av klassen med unika värden för varje property
 * Skriv ut varje objekts properties i konsollen
 
