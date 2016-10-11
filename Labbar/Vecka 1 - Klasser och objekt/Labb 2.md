@@ -7,6 +7,7 @@
 	* Ge dessa klasser passande properties. Till exempel NumberOfLegs, CanSwim/Run/Fly,  etc.
 * Skapa klasser som ärver dessa klasser, till exempel "Dog" för "Mammal" etc.
 	* Ge även dessa passande properties
+	* Använd override på metoden i "Animal" för att ge varje typ av djur ett eget beteende
 
 ### Del 2
 * Skapa listor för de olika djuren
