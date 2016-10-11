@@ -1,10 +1,14 @@
 ﻿# Labb 1: Klasser och objekt
 ### Del 1:
 * Skapa ett nytt console project i Visual Studio
-* Skapa en klass som representerar någonting fysiskt, till exempel "Dog" eller "Car"
-* Ge din klass tre passande properties
-* Skapa 5 instanser av din klass
-* Skriv ut varje objekts properties i konsollen.
+* Skapa klassen "Dog"
+* Ge klassen properties:
+⋅⋅1. Name
+⋅⋅2. Age
+⋅⋅3. Breed
+⋅⋅⋅Du får ha fler om du vill!
+* Skapa några instanser av klassen med unika värden för varje property
+* Skriv ut varje objekts properties i konsollen
 
 ### Del 2:
 * Se till att alla objekt ligger i en lista
@@ -15,4 +19,4 @@
 ⋅⋅1. Add new
 ⋅⋅2. Remove
 ⋅⋅3. Exit
-* Användaren ska kunna använda menyn för att lägga till och ta bort objekt
+* Användaren ska kunna använda menyn för att lägga till och ta bort objekt samt avsluta applikationen
