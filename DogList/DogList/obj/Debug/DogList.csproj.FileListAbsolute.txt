@@ -1,1 +1,7 @@
 c:\users\susan\documents\visual studio 2015\Projects\DogList\DogList\bin\Debug\DogList.exe.config
+C:\Users\susan\Desktop\Visual Studio GitHub\DogList\DogList\bin\Debug\DogList.exe.config
+C:\Users\susan\Desktop\Visual Studio GitHub\DogList\DogList\bin\Debug\DogList.exe
+C:\Users\susan\Desktop\Visual Studio GitHub\DogList\DogList\bin\Debug\DogList.pdb
+C:\Users\susan\Desktop\Visual Studio GitHub\DogList\DogList\obj\Debug\DogList.csprojResolveAssemblyReference.cache
+C:\Users\susan\Desktop\Visual Studio GitHub\DogList\DogList\obj\Debug\DogList.exe
+C:\Users\susan\Desktop\Visual Studio GitHub\DogList\DogList\obj\Debug\DogList.pdb

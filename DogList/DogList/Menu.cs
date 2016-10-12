@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace DogList
 {
-    class Program
+    class Menu
     {
-        static void Main(string[] args)
-        {
-            var runtime = new Runtime();
-            runtime.TheDogs();
-        }
     }
 }
